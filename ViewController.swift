@@ -5,8 +5,8 @@
 //  Created by Kastel, Lynette on 9/19/17.
 //  Copyright © 2017 LynetteKastel. All rights reserved.
 //
-//  vid 42 - Phase 1 conform array to data source protocol
-//  vid 43 - Phase 2 group the fruits by first letter (set up a dictionary, sort array values, populate the tableview with dictionary elements)
+//  Phase 1 - conform an array to data source protocol
+//  Phase 2 - group the fruits by first letter (set up a dictionary, sort array values, populate the tableview with dictionary elements)
 
 import UIKit
 
